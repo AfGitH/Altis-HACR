@@ -28,7 +28,7 @@ ASA or ABS or stronger.
 20% infill for knob.
 100% infill 0.1-0.15mm layer height for propeller, need high precision (dw it's only 5cm cubic).
 
-#BOM
+# BOM
 - 1x 1806 1700kv
 - 2x 21700 EVE 50E
 - 1x BMS 2s 10A
