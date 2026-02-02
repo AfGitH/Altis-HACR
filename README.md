@@ -22,6 +22,10 @@ A Handheld Fan designed for long and everlasting battery life, smooth airflow, a
 - Uses 2 Litium Ion batteries for higher energy density, safer discharge, and longer cycle life than Li-Po batteries
 - The motor is a Brushless DC motor, allowing it to run faster, consumes lower power, and can operate comfortable for hours without overheating
 
+# Wiring Diagram (sorry if paper)
+![20260202_181105](https://github.com/user-attachments/assets/ff91c7ff-532f-4a7a-9aaa-400d28eda18c)
+
+
 # 3D printing material:
 ASA or ABS or stronger.
 - Body (duct and handle): 0.1-0.2mm layer height, 0.4mm nozzle, 40% infill, WHITE.
