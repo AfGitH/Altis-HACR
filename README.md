@@ -28,6 +28,10 @@ ASA or ABS or stronger.
 - Knob: 20% infill BLACK.
 - Fan Blade: 100% infill 0.1-0.15mm layer height, NEEDS HIGH PRECISION, QUALITY, AND STRENGHT (dw it's only 5cm cubic) BLACK.
 
+# Why I made it
+To be honest, it all started in 2025 of december when *I see these overpriced handheld fans on online shops, and wanted to compete with them*, then I bought a 15krpm rs280, and tested it with a toy fan blade, it was blowing my hair, so I thought: "why not make a cheaper one than theirs, but have better stuffs?"
+and then I go to Blender and made it, I wasted my time, I discovered that DC motors sucks at long term use, so i abandoned the project, then I have an idea to make it using a PC axial fan, I did make it with my own money, I got discounted, I used it to chill in class, then I wanted to make a cleaner version, using those 100krpm edf turbo jet fan or something, those are inrunners, and... I figured out those aren't the best, cuz I know that it's impractical to have like 15 mins of runtime on 2 batteries..., so I made this! I calculated the rpm, tip speed, diameter, pitch, trying out fusion, trying out "parametric fan blade generator", then I dumped the generator, so I modified a pc fan blade design, and fit it into the motor (according to the motor desc), I made all of the stuffs (duct, handle, stator blades, etc) all without a reference, only a glimpse of what I imagined it would be like, so now I'm here, I really hope this would be my milestone in engineering, since I started making electronics in late october 2025, and I just discovered Hack Club back in December from an Instagram reel. 
+
 # BOM
 - 1x 1806 1700kv
 https://shopee.co.id/Motor-Brushless-2s-3s-7.4V-12V-1806-1700KV-RC-Pesawat-i.165138131.40252534787?xptdk=93341879-acbb-4d03-808a-274a252e1712
