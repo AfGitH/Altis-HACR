@@ -24,9 +24,9 @@ A Handheld Fan designed for long and everlasting battery life, smooth airflow, a
 
 # 3D printing material:
 ASA or ABS or stronger.
-0.1-0.2mm layer height, 0.4mm nozzle, 40% infill for body.
-20% infill for knob.
-100% infill 0.1-0.15mm layer height for propeller, need high precision (dw it's only 5cm cubic).
+- Body (duct and handle): 0.1-0.2mm layer height, 0.4mm nozzle, 40% infill, WHITE.
+- Knob: 20% infill BLACK.
+- Fan Blade: 100% infill 0.1-0.15mm layer height, NEEDS HIGH PRECISION, QUALITY, AND STRENGHT (dw it's only 5cm cubic) BLACK.
 
 # BOM
 - 1x 1806 1700kv
